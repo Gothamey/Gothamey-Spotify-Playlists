@@ -11,7 +11,7 @@ export default function Landing() {
           <h1>Hello stranger!</h1>
          
           
-        <img src={logo} alt="Logo" width="350" height="450" />
+        <img src={logo} alt="Logo" width="350" height="350" />
 
 
         <h3>Welcome to my music universe</h3>
